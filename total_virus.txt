@@ -1,1 +1,2 @@
-test
+curl -v --location --output sample.bin \
+  --url 'https://www.virustotal.com/vtapi/v2/file/download?apikey=&hash=e6eb4093f7d958a56a5cd9252a4b529efba147c0e089567f95838067790789ee'
